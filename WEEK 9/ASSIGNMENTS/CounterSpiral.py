@@ -1,4 +1,6 @@
 """
+Given a square matrix, you have to write a program to print it in a counter-clockwise spiral form.
+
 Input Format:
 The first line of the input contains an integer number n which represents the number of rows and columns in the matrix.
 From the second line contains n rows with each row having n elements separated by a space.
